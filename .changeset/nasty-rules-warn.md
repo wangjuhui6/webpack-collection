@@ -1,5 +1,0 @@
----
-"webpack-collection": patch
----
-
-a
