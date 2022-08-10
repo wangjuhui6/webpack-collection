@@ -17,5 +17,11 @@
   ],
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "json-templater": "^1.2.0",
+    "less": "^4.0.0",
+    "less-loader": "^8.0.0",
+    "markdown-loader": "^8.0.0"
+  }
 }
