@@ -6,6 +6,15 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "publishConfig": {
+    "registry": "http://npm.wangjuhui.top/registry/"
+  },
+  "maintainers": [
+    {
+      "name": "wjh",
+      "email": "13934720500@163.com)"
+    }
+  ],
   "keywords": [],
   "author": "",
   "license": "ISC"

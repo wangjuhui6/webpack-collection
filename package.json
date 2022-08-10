@@ -15,5 +15,8 @@
   "license": "ISC",
   "dependencies": {
     "@changesets/cli": "^2.24.2"
+  },
+  "publishConfig": {
+    "registry": "http://npm.wangjuhui.top/registry/"
   }
 }
