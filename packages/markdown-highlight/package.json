@@ -20,6 +20,8 @@
   "license": "ISC",
   "dependencies": {
     "highlight.js": "^11.6.0",
-    "markdown-it": "^13.0.1"
+    "markdown-it": "^13.0.1",
+    "less": "^4.0.0",
+    "less-loader": "^8.0.0"
   }
 }

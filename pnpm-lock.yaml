@@ -11,9 +11,13 @@ importers:
   packages/markdown-highlight:
     specifiers:
       highlight.js: ^11.6.0
+      less: ^4.0.0
+      less-loader: ^8.0.0
       markdown-it: ^13.0.1
     dependencies:
       highlight.js: registry.npmmirror.com/highlight.js/11.6.0
+      less: registry.npmmirror.com/less/4.1.3
+      less-loader: registry.npmmirror.com/less-loader/8.1.1_less@4.1.3
       markdown-it: registry.npmmirror.com/markdown-it/13.0.1
 
   packages/vue-cli-demo:
