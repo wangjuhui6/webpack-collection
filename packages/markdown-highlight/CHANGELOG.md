@@ -1,5 +1,11 @@
 # @wjh/markdown-highlight
 
+## 1.1.2
+
+### Patch Changes
+
+- less-loader 版本
+
 ## 1.1.0
 
 ### Minor Changes
