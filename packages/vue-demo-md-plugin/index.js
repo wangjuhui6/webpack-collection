@@ -59,8 +59,7 @@ function mdToVue(content) {
   );
   return content;
 }
-
-module.exports = function (content) {
+function run (content) {
   /**
    * 处理格式
    */
@@ -69,6 +68,7 @@ module.exports = function (content) {
   const html = render(mdTemplate, {
     content: contentVue
   });
-  console.log(html)
   return html;
 };
+
+module.exports = run

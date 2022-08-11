@@ -1,5 +1,5 @@
 {
-  "name": "@wjh/vue-demo-md-plugin",
+  "name": "@wjh/markdown-highlight",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -19,9 +19,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "json-templater": "^1.2.0",
-    "less": "^4.0.0",
-    "less-loader": "^8.0.0",
-    "markdown-loader": "^8.0.0"
+    "highlight.js": "^11.6.0",
+    "markdown-it": "^13.0.1"
   }
 }

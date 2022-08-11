@@ -45,8 +45,11 @@ const routes: RouteRecordRaw[] = [
   {
     path: '/md',
     name: 'md',
-    component: () => import('@views/md/index.md')
-  }
+    component: () => import('@views/md/index.vue'),
+    meta: {
+      title: 'md',
+    },
+  },
 ]
 
 export default routes
