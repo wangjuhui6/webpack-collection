@@ -1,5 +1,11 @@
 # @wjh/vue-demo-md-plugin
 
+## 1.0.1
+
+### Patch Changes
+
+- 6881378: 发版
+
 ## 1.0.0
 
 ### Major Changes
